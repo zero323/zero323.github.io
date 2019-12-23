@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/zero323
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zero323.net
+  * I am zero323 (https://keybase.io/zero323) on keybase.
+  * I have a public key with fingerprint 642B E92F A739 1BF6 B9E9  2A64 C095 AA7F 33E6 123A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d95116714f811466ffe8f7f83ea1335460c47c7bc2d2153a5756c374e00481f50a",
+      "fingerprint": "642be92fa7391bf6b9e92a64c095aa7f33e6123a",
+      "host": "keybase.io",
+      "key_id": "c095aa7f33e6123a",
+      "kid": "0101d95116714f811466ffe8f7f83ea1335460c47c7bc2d2153a5756c374e00481f50a",
+      "uid": "f6ec97c31128f4c8dac554ff630b0119",
+      "username": "zero323"
+    },
+    "merkle_root": {
+      "ctime": 1562761720,
+      "hash_meta": "8707e4996ea2135544d094e4e308a61a2c1fd87af3c0160b5ec8e79124fbf535",
+      "seqno": 5729502
+    },
+    "revoke": {
+      "sig_ids": [
+        "16e7304ef1c89b1353d8c5d6ad0480db2d08b063940fc17c849e4f2cfec4ceee0f"
+      ]
+    },
+    "service": {
+      "hostname": "zero323.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1562761721,
+  "expire_in": 157680000,
+  "prev": "273b7f1d213d52ac8b2c6ec7ee331a4f20d397c2bff0df050e04eeb5224130bc",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU3tQFVUcBhWra4qRw3hDHF2xEK94zp59Xt8olI9IHUwdx267Z8+RDe7dy94F
+JLvxUCdkMs3GIGT0DzPQGqFsisoEK6x8lD3MQVJpMEd6SY4ajKKdZXKamv7s/LNz
+zn6/7/t+3++crcMHx3hiW7fvK0UXE/yxx7r1mNUT22+t43TLKOH867g8MvAh+QaJ
+OIE80+D8HIAAGqoIoSRDgSoQCpJEKVGoTBVENIiQKEgACzKWdcwbPBSRJsqihJEs
+EAAEBVIRaJyPo2ZoDbHDthlyGK0k8DpRearJSIU6lXSV7TRJwEAVNU2mCBEJ8sgt
+zLUibgUzp2sRkm5a7IxtAgP2/gP/P/suHKCjEsGqjBGEvEIFrBgaFkWBUgkBHUCo
+usAIsUNakDD008S2EI+4qI8LEjsvnwRsy3LcbLFjuggoSrwsQZkHrD8tkhsIEkdj
+hYoMZCKoqkQ0HiKmIBhAFYhAEFA0CWo8htRQZI0iDKAEdJFghcgq5AWqUxGJzEaE
+FIQszi/KvCoCnjmwSZGVR1zxiLmGpRbh/Ks4KBEZtTpAIBRiRdWZGDIULBqSZrDm
+gaHzBlB0ICFVABRDGSuCSgTKY0qwgAkhgHKro66cXWTiAXp3UP8MID1EHGYpbFuO
+ha189iPXccIRvxuMUxJ2kcVED/zFEdDNkMFuCasoInbEtEIsKIb8d2bQx5G1YdMm
+AdNFiLKkALZcHVLEKHkZ6TKFbKbIEHkNKzqP2fhkQhCCGusBGIjNktcpBQYFIiAs
+BqKLPC9ANk78d4gCs6mtYZQsuZDmFNqEi3o2DUJDYmI9McmJ44cYk7un1qtJ19/r
+TjPuPKy4Qe6rivHcM/LOSacn/va8zo9a7z9YYfqbe6t+DdakjLaKv/1iZSTp1Zzl
+i+LLj/buqxg8jl6/2T7y60zY2Hn5h62txXlTAj/Vv97/woRGb23+E48/3BTrHZE4
+trjCOTq151GYUn3t+W2NL3ra0k4lpy2oeui1C/ak7Lg539/cf/LJHW3r6zIu6XMX
+lU9Z1dK3PXNldcL+b9J3n9tWkJ6RfRxvrpveuvR45HSL97Pf5bFlV9/P6Fm/41yR
+b+bn8VuktpYP2i9N1prqCrSJhS1bl3zZkTWrpDP35dquxI3LMqKzfRkv1Ubf3jc/
+dkzs9LYhcdnFKw74bvzcfwKVzZi9t+CXLWGzr/mdtqe+eq4rc96oV07P6WsuygY9
+eRc2dNZNebA6PPRIz9Ecb3/jkcW+DSMSr6pVOXMOdqxrmpH5aUNSxUW8sGbt2nnB
++vOTlpDLB07oCYp+Zs+xC71dyXN9sLxtxahdDzRkpIYHRaX7Zm6ZtjirZWzFYe/Z
+TVzf7sro6ByQWtp3+lrJ7TeGVa06f+XNxYf7Uoen17yVfbh3gmA9szN+TNPe3E8+
+Tmm/fmNnQ6pyIr0zZfj2aQsbskpXHCpu6sgszfqR1o9fmrL+yoLgpu49xtXdXf3f
+ddz9bkX/vWnzF876LWHWH6ceC44r85UVnhmTdGjzLq9q3ZV2csPQ5sF8dW35hxPi
+zu49eOvyspra5VHVG322etcws/KRyuSCak98858=
+=WLe0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zero323
+
+==================================================================
+
